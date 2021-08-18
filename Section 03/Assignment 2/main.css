@@ -1,0 +1,34 @@
+
+html,
+body {
+    height: 100%;
+}
+
+div {
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid #f12f3d;
+}
+
+.first-box {
+    box-sizing: border-box;
+    /* display: none; */
+    visibility: hidden;
+    /* height: 100%; */
+    height: 300px;
+    width: 47%;
+    display: inline-block;
+}
+
+.second-box {
+    box-sizing: border-box;
+    /* visibility: hidden; */
+    /* height: 100%; */
+    height: 300px;
+    width: 47%;
+    display: inline-block;
+}
+
+.second-box:hover {
+    background-color: aqua;
+}
