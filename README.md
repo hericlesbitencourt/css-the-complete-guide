@@ -2,7 +2,7 @@
 ### What I've learned ?
 
 :white_check_mark: CSS, Flexbox, Grid, Sass.
-:white_check_mark: Responsiveness and some another techniques.
+:white_check_mark: Responsiveness, mobile first aproach and some another techniques.
 :white_check_mark: JavaScript.
 
 ## Link's
