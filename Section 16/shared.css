@@ -120,7 +120,7 @@ main {
 }
 
 .main-nav__item--cta {
-  animation: wiggle 200ms 3s 8 alternate none;
+  animation: wiggle 200ms 3s 8 none;
 }
 
 .main-nav__item--cta a,
