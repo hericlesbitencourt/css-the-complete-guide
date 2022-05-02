@@ -19,5 +19,4 @@ This course is available on Udemy on the follow link:
 
 To send me an email ➡️ `hericlesbitencourt@icloud.com`
 or contact me on social media's:
-- [Linkedin](https://www.linkedin.com/in/hericlesrocha/) - Hericles Linkedin.
-- [Instagram](https://instagram.com/hericlesbitencourt) - Hericles Instagram.
+- [Linkedin](https://www.linkedin.com/in/hericlesbitencourt/) - Hericles Linkedin.
