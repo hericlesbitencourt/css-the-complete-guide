@@ -1,9 +1,9 @@
 # [CSS - The Complete Guide 2022 (incl. Flexbox, Grid & Sass)](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
 ### What I've learned ?
 
-:white_check_mark: CSS, Flexbox, Grid, Sass.
-:white_check_mark: Responsiveness, mobile first aproach and some another techniques.
-:white_check_mark: JavaScript.
+* CSS, Flexbox, Grid, Sass.
+* Responsiveness, mobile first aproach and some another techniques.
+* JavaScript.
 
 ## Link's
 
